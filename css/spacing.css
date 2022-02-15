@@ -6,6 +6,12 @@
     margin-top: 5rem;
 
 }
+.m-b{
+    margin-bottom: 2rem;;
+}
+.m-l{
+    margin-left: 0;
+}
 .padding-footer{
     padding: 2rem 5rem
 }
