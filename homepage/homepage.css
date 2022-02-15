@@ -5,12 +5,13 @@
     --secondry-pink-color: rgb(247, 155, 170);
 }
 
-.span {
-    color: var(--main-Cta-color);
-}
-
 body {
     height: 100%;
+}
+
+/* nav bar */
+.span {
+    color: var(--main-Cta-color);
 }
 
 .search-bar input {
@@ -29,7 +30,6 @@ body {
     font-weight: var(--font-bold);
     text-decoration: none;
     color: var(--text-secondry);
-
 }
 
 .log-in:hover,
@@ -57,6 +57,7 @@ body {
     color: var(--primary-pink-color);
 }
 
+/* hero-section */
 .img-hero {
     width: 100%;
     max-width: 100%;
@@ -69,11 +70,11 @@ body {
     position: absolute;
     top: 6rem;
     left: 8rem;
-    font-size:var(--size-2);
+    font-size: var(--size-2);
 }
 
 .hero-btn {
-    background-color:var(--secondry-pink-color);
+    background-color: var(--secondry-pink-color);
     border-radius: var(--border-radius);
 }
 
@@ -81,11 +82,13 @@ body {
     background-color: var(--footer-color);
     color: var(--secondry-color);
 }
+
 .hero-section {
     display: flex;
     flex-direction: row;
 }
 
+/* card categories */
 .category {
     text-align: center;
 }
