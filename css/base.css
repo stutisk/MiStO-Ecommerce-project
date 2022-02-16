@@ -1,3 +1,9 @@
-:root{
-    --black-color:black;
+:root {
+    --black-color: rgb(0, 0, 0);
+    --border-color: rgba(94, 91, 91, 0.493);
+    --footer-color: rgb(36, 39, 41);
+    --primary-pink-color: rgb(173, 73, 90);
+    --secondry-pink-color: rgb(247, 155, 170);
+
+
 }

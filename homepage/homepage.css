@@ -1,9 +1,3 @@
-:root {
-    --border-color: rgba(94, 91, 91, 0.493);
-    --footer-color: #242729;
-    --primary-pink-color: rgb(173, 73, 90);
-    --secondry-pink-color: rgb(247, 155, 170);
-}
 
 body {
     height: 100%;
@@ -85,7 +79,7 @@ body {
 
 .hero-section {
     display: flex;
-    flex-direction: row;
+
 }
 
 /* card categories */
@@ -99,7 +93,6 @@ body {
 
 .card-categories {
     display: flex;
-    flex-direction: row;
     gap: 3rem;
     justify-content: center;
     flex-wrap: wrap;
