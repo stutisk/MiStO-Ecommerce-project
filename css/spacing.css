@@ -1,11 +1,23 @@
-.m-t{
+.m-t3{
     margin-top: 3.8rem;
 
+}
+.m-2t{
+    margin-top:2.5rem;
 }
 .m-t5{
     margin-top: 5rem;
 
 }
+.m-b2{
+    margin-bottom: 2rem;;
+}
+.m-l0{
+    margin-left: 0;
+}
 .padding-footer{
-    padding: 2rem 5rem
+    padding: 1rem 4rem
+}
+.padding-i{
+    padding: 0 1.5rem;
 }
