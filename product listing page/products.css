@@ -10,7 +10,6 @@
     width: 70%;
     display: flex;
     height: auto;
-    margin: 30px auto;
     flex-wrap: wrap;
     gap: 1rem;
 }
@@ -46,13 +45,12 @@
     border: none;
     border-radius: var(--border-radius-5);
     cursor: pointer;
-    background-color: var(--secondry-pink-color);
-}
-
-.btn-product a {
+    background-color:var(--primary-pink-color);
     text-decoration: none;
     font-size: var(--size-0);
     font-weight: var(--font-dark);
     color: var(--black-color);
-
+}
+.secondary-pro{
+    background-color:var(--secondry-pink-color);
 }
