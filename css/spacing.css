@@ -9,14 +9,21 @@
     margin-top: 5rem;
 
 }
+.m-1t{
+    margin-top:1rem;
+}
 .m-b2{
     margin-bottom: 2rem;;
 }
 .m-l0{
     margin-left: 0;
 }
-.m-2a{
-    margin: 2rem auto;
+
+.m-lr{
+    margin: 0 3%; 
+}
+.m-l5{
+    margin-left:5rem;
 }
 .padding-footer{
     padding: 1rem 4rem
@@ -24,4 +31,6 @@
 .padding-i{
     padding: 0 1.5rem;
 }
-
+.input-padding{
+    padding:0.5rem;
+}
