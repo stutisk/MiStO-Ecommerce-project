@@ -18,8 +18,12 @@
 .m-l0{
     margin-left: 0;
 }
+
 .m-lr{
     margin: 0 3%; 
+}
+.m-l5{
+    margin-left:5rem;
 }
 .padding-footer{
     padding: 1rem 4rem
