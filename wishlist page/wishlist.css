@@ -1,7 +1,7 @@
 .wishlist-container{
     width: 80%;
     display: flex;
-    height: auto;
     flex-wrap: wrap;
     gap: 1rem;
+    
 }
