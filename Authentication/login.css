@@ -10,7 +10,7 @@
 .aunth-container {
 	box-shadow: 0 14px 28px var(--box-shadow-color);
 	overflow: hidden;
-	width: 34rem;
+	width: 50%;
 	max-width: 100%;
 	min-height: 30vh;
 }
