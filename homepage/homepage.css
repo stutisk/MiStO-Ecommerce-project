@@ -169,5 +169,12 @@ a {
 
 .footer-container ul a:hover {
     opacity: 1;
-    color: rgb(247, 155, 170)
+    color: var(--primary-pink-color)
+}
+.filter-btn{
+    font-size:var(--size-0);
+
+}
+.filter-btn:hover{
+    color:var(--primary-pink-color)
 }
